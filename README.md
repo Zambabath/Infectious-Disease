@@ -1,4 +1,4 @@
-This is the first project that I undertook for my Masters Degree. It was a group projecct using infectious disease data, which cannot be shared on GitHub. 
+This is the first project that I undertook for my Masters Degree. It was a group project using infectious disease data, which cannot be shared on GitHub. 
 
 The following is what each file details:
 Cleaning code - code used to clean the raw data and to preprocess it
